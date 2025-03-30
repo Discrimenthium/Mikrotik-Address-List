@@ -1,3 +1,6 @@
+Mikrotik-Address-List для Discord, Youtube, Instagram 
+Листы брал здесь
+https://github.com/vogster/Mikrotik-Address-List
 Пример скрипта для mikrotik
 ```
 /ip firewall address-list remove [find list~"youtube.list"]
