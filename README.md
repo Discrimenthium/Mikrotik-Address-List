@@ -12,5 +12,5 @@ local tmp [pick $result $i]; \
 if ($tmp !="\n") do={ \
 set newresult "$newresult$tmp" } }; \
 local newresult [toarray $newresult]; \
-foreach value in=$newresult do={/ip firewall/address-list/add address=$value list=youtube.list}
+foreach value in=$newresult do={/ip firewall/address-list/add address=$value list=$list}
 ```
