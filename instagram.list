@@ -1,102 +1,101 @@
-/ip firewall address-list
-add address=157.240.247.174 list=instagram.list
-add address=46.53.178.107 list=instagram.list
-add address=179.60.195.174 list=instagram.list
-add address=157.240.205.174 list=instagram.list
-add address=31.13.24.0/21 list=instagram.list
-add address=31.13.64.0/18 list=instagram.list
-add address=45.64.40.0/22 list=instagram.list
-add address=66.220.144.0/20 list=instagram.list
-add address=69.63.176.0/20 list=instagram.list
-add address=69.171.224.0/19 list=instagram.list
-add address=74.119.76.0/22 list=instagram.list
-add address=103.4.96.0/22 list=instagram.list
-add address=129.134.0.0/16 list=instagram.list
-add address=157.240.0.0/16 list=instagram.list
-add address=173.252.64.0/18 list=instagram.list
-add address=179.60.192.0/22 list=instagram.list
-add address=185.60.216.0/22 list=instagram.list
-add address=204.15.20.0/22 list=instagram.list
-add address=157.240.200.63 list=instagram.list
-add address=185.60.219.63 list=instagram.list
-add address=129.134.31.12 list=instagram.list
-add address=66.81.203.132 list=instagram.list
-add address=185.89.218.12 list=instagram.list
-add address=31.13.66.63 list=instagram.list
-add address=84.15.65.162 list=instagram.list
-add address=68.66.224.28 list=instagram.list
-add address=157.240.253.63 list=instagram.list
-add address=83.174.11.224 list=instagram.list
-add address=157.240.9.52 list=instagram.list
-add address=157.240.252.174 list=instagram.list
-add address=157.240.195.63 list=instagram.list
-add address=31.13.71.52 list=instagram.list
-add address=57.144.110.192 list=instagram.list
-add address=157.240.252.17 list=instagram.list
-add address=84.15.66.97 list=instagram.list
-add address=217.168.6.33 list=instagram.list
-add address=31.13.83.52 list=instagram.list
-add address=157.240.241.63 list=instagram.list
-add address=129.134.30.12 list=instagram.list
-add address=185.89.219.12 list=instagram.list
-add address=157.240.252.10 list=instagram.list
-add address=157.240.201.63 list=instagram.list
-add address=66.81.203.197 list=instagram.list
-add address=179.60.195.52 list=instagram.list
-add address=66.81.203.7 list=instagram.list
-add address=216.40.34.41 list=instagram.list
-add address=157.240.202.63 list=instagram.list
-add address=157.240.229.63 list=instagram.list
-add address=157.240.252.63 list=instagram.list
-add address=31.13.72.53 list=instagram.list
-add address=124.108.16.224 list=instagram.list
-add address=157.240.205.63 list=instagram.list
-add address=92.46.37.96 list=instagram.list
-add address=157.240.247.63 list=instagram.list
-add address=157.240.234.63 list=instagram.list
-add address=157.240.235.63 list=instagram.list
-add address=87.245.208.97 list=instagram.list
-add address=216.58.192.0/19 list=instagram.list
-add address=209.85.128.0/17 list=instagram.list
-add address=198.105.240.0/20 list=instagram.list
-add address=142.250.0.0/15 list=instagram.list
-add address=108.177.0.0/17 list=instagram.list
-add address=87.245.197.140 list=instagram.list
-add address=64.233.160.0/19 list=instagram.list
-add address=157.240.0.1 list=instagram.list
-add address=157.240.238.63 list=instagram.list
-add address=157.240.238.174 list=instagram.list
-add address=157.240.0.63 list=instagram.list
-add address=157.240.224.63 list=instagram.list
-add address=157.240.224.174 list=instagram.list
-add address=157.240.251.36 list=instagram.list
-add address=157.240.253.12 list=instagram.list
-add address=157.240.253.35 list=instagram.list
-add address=157.240.238.13 list=instagram.list
-add address=157.240.238.56 list=instagram.list
-add address=157.240.238.175 list=instagram.list
-add address=57.144.112.141 list=instagram.list
-add address=157.240.251.60 list=instagram.list
-add address=157.240.251.128 list=instagram.list
-add address=157.240.238.5 list=instagram.list
-add address=157.240.253.13 list=instagram.list
-add address=157.240.253.5 list=instagram.list
-add address=157.240.238.2 list=instagram.list
-add address=157.240.238.37 list=instagram.list
-add address=157.240.251.5 list=instagram.list
-add address=157.240.251.34 list=instagram.list
-add address=57.144.112.1 list=instagram.list
-add address=157.240.238.54 list=instagram.list
-add address=129.134.26.123 list=instagram.list
-add address=157.240.252.3 list=instagram.list
-add address=31.13.84.4 list=instagram.list
-add address=157.240.224.12 list=instagram.list
-add address=157.240.238.4 list=instagram.list
-add address=157.240.0.13 list=instagram.list
-add address=3.33.139.32 list=instagram.list
-add address=157.240.0.35 list=instagram.list
-add address=157.240.238.14 list=instagram.list
-add address=157.240.238.60 list=instagram.list
-add address=57.144.112.145 list=instagram.list
-add address=157.240.251.35 list=instagram.list
-add address=157.240.0.21 list=instagram.list
+157.240.247.174,
+46.53.178.107,
+179.60.195.174,
+157.240.205.174,
+31.13.24.0/21,
+31.13.64.0/18,
+45.64.40.0/22,
+66.220.144.0/20,
+69.63.176.0/20,
+69.171.224.0/19,
+74.119.76.0/22,
+103.4.96.0/22,
+129.134.0.0/16,
+157.240.0.0/16,
+173.252.64.0/18,
+179.60.192.0/22,
+185.60.216.0/22,
+204.15.20.0/22,
+157.240.200.63,
+185.60.219.63,
+129.134.31.12,
+66.81.203.132,
+185.89.218.12,
+31.13.66.63,
+84.15.65.162,
+68.66.224.28,
+157.240.253.63,
+83.174.11.224,
+157.240.9.52,
+157.240.252.174,
+157.240.195.63,
+31.13.71.52,
+57.144.110.192,
+157.240.252.17,
+84.15.66.97,
+217.168.6.33,
+31.13.83.52,
+157.240.241.63,
+129.134.30.12,
+185.89.219.12,
+157.240.252.10,
+157.240.201.63,
+66.81.203.197,
+179.60.195.52,
+66.81.203.7,
+216.40.34.41,
+157.240.202.63,
+157.240.229.63,
+157.240.252.63,
+31.13.72.53,
+124.108.16.224,
+157.240.205.63,
+92.46.37.96,
+157.240.247.63,
+157.240.234.63,
+157.240.235.63,
+87.245.208.97,
+216.58.192.0/19,
+209.85.128.0/17,
+198.105.240.0/20,
+142.250.0.0/15,
+108.177.0.0/17,
+87.245.197.140,
+64.233.160.0/19,
+157.240.0.1,
+157.240.238.63,
+157.240.238.174,
+157.240.0.63,
+157.240.224.63,
+157.240.224.174,
+157.240.251.36,
+157.240.253.12,
+157.240.253.35,
+157.240.238.13,
+157.240.238.56,
+157.240.238.175,
+57.144.112.141,
+157.240.251.60,
+157.240.251.128,
+157.240.238.5,
+157.240.253.13,
+157.240.253.5,
+157.240.238.2,
+157.240.238.37,
+157.240.251.5,
+157.240.251.34,
+57.144.112.1,
+157.240.238.54,
+129.134.26.123,
+157.240.252.3,
+31.13.84.4,
+157.240.224.12,
+157.240.238.4,
+157.240.0.13,
+3.33.139.32,
+157.240.0.35,
+157.240.238.14,
+157.240.238.60,
+57.144.112.145,
+157.240.251.35,
+157.240.0.21
