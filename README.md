@@ -1,7 +1,7 @@
 # Mikrotik-Address-List для Discord, Youtube, Instagram 
 Листы брал здесь
 https://github.com/vogster/Mikrotik-Address-List
-Исправил формат строк IP-адресов. 
+  Исправил формат строк IP-адресов. 
 Скрипт-однострочник добавляет задание "update address-lists" в sheduler. 
 В массиве resource хранятся говорящие о себе "названия", которые соответствуют raw-страницам с этого репозитория.
 remove удаляет все address-list записи мо маске *.list
